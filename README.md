@@ -40,3 +40,7 @@ darkMode: "class",
  </button>
 </div>
 ```
+## Screenshots
+
+![Light Theme](https://github.com/harshitparkar/Learn-Dark-Light-Theme-Using-Tailwindcss-ReactJs/assets/56834158/9605271c-2865-4d63-92d8-57150b3ddf00)
+![Dark Theme](https://github.com/harshitparkar/Learn-Dark-Light-Theme-Using-Tailwindcss-ReactJs/assets/56834158/143c50db-7231-43a5-8a9d-b43b78669886)
